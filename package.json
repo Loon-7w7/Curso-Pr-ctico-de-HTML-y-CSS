@@ -1,0 +1,11 @@
+{
+  "name": "cursopractico",
+  "version": "1.0.0",
+  "description": "llegar las practicas del curos practico de htmal y css",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
